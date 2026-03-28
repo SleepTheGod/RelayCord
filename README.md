@@ -1,4 +1,3 @@
-```markdown
 # 📞 RelayCord – Voice‑Activated Phone Calling from Discord
 
 RelayCord is a production‑ready Discord bot that allows you to place real phone calls directly from a voice channel.  
