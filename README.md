@@ -202,4 +202,3 @@ If you encounter any issues, please open an issue on GitHub.
 ---
 
 **Built with ❤️ using Discord.py, Twilio, and Google Cloud.**
-```
